@@ -3,7 +3,7 @@
 Tech stack: Python: pandas, scipy, sklearn, matplotlib, plotly, seaborn
 
 
-Analysin marketing Campaigns - pandas
+Analysing marketing Campaigns - pandas
 
 Analysing social media - pandas, json parcing
 
